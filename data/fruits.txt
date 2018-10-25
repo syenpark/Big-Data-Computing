@@ -1,8 +1,3 @@
-apple
-banana
-canary melon
-grape
-lemon
-orange
-pineapple
-strawberry
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c7cc0c03c116973622b919d8377be791d4e2b6bf59934b423849d14d09f6897
+size 66

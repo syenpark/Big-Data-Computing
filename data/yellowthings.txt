@@ -1,8 +1,3 @@
-banana
-bee
-butter
-canary melon
-gold
-lemon
-pineapple
-sunflower
+version https://git-lfs.github.com/spec/v1
+oid sha256:9021fe0feb6424d558e69518f8ee6fd727181d57161bdd52bcc24589470c01dd
+size 62

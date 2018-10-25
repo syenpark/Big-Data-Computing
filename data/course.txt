@@ -1,9 +1,3 @@
-Course Information
-Lecture videos
-
-Course Description
-Big data systems, including cloud computing and parallel data processing
-frameworks, emerge as enabling technologies in managing and mining the 
-massive amount of data across hundreds or even thousands of commodity 
-servers in data centers. This course exposes students to both the theory 
-and hands-on experience of this new technology.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e35855993752a7b634b5dfc00bf2b0954dcbe8dc5d320eaf103162e9761753c1
+size 391
