@@ -1,0 +1,5 @@
+*.lck filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
+*.dat filter=lfs diff=lfs merge=lfs -text
+*.ctrl filter=lfs diff=lfs merge=lfs -text
+*.properties filter=lfs diff=lfs merge=lfs -text
